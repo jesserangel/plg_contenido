@@ -176,8 +176,6 @@ class plgContentContenido extends JPlugin{
             </section>
             <!-- Table Section End -->
             <?php
-    	
-        return $salida;
 
     }  
 
